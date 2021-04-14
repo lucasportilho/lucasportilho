@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucasportilho
 - 👀 I’m interested in technology (general), front-end development, journalism and animation
 - 🌱 I’m currently learning HTML5 and CSS3
-- 💞️ I’m looking to collaborate on dev teachers, open source projects and NGOs 
+- 💞️ I’m looking to collaborate with dev teachers, open source projects and NGOs 
 - 📫 How to reach me by e-mail: correio.portilho@gmail.com or phone: +5532984196944
 
 <!---
